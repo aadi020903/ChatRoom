@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/helpers/broadcastmessage.ts","./src/helpers/generaterandomcode.ts","./src/utils/createroom.ts","./src/utils/joinroom.ts","./src/utils/leaveroom.ts","./src/utils/sendmessage.ts","./src/utils/sendroominfo.ts"],"version":"5.7.2"}
